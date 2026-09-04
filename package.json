@@ -1,0 +1,24 @@
+{
+  "name": "w8-cicd-lab",
+  "version": "1.0.0",
+  "description": "Week 8 CI/CD lab",
+  "homepage": "https://github.com/ThiraphatKlineingdee/w8-cicd-ThiraphatKlineingdee#readme",
+  "bugs": {
+    "url": "https://github.com/ThiraphatKlineingdee/w8-cicd-ThiraphatKlineingdee/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiraphatKlineingdee/w8-cicd-ThiraphatKlineingdee.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
